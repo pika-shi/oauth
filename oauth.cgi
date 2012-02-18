@@ -10,8 +10,8 @@ access_token_url = 'http://twitter.com/oauth/access_token'
 authenticate_url = 'http://twitter.com/oauth/authenticate'
 post_url  = 'http://twitter.com/statuses/update.xml'
 
-consumer_key = 't8OrZ1q3NSkAZVeG2g4Ew'
-consumer_secret = 'cwJwSo6Qfhrf8w45XbFmDcts0dMIdQnNfQdsKdGzjr4'
+consumer_key = '**********'
+consumer_secret = '**********'
 
 
 def getOAuth():
